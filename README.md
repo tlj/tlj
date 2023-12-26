@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/tlj?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tlj?label=Stars&style=social)
-![GitHub forks](https://img.shields.io/github/forks/tlj?label=Forks&style=social)
 
 ## About Me
 

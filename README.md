@@ -18,8 +18,10 @@ I'm a passionate developer with a love for the Go programming language, experien
 
 ## My Top Projects
 
-Here are some of the projects I'm proud of:
+Here are some of the projects I want to highlight:
 
+- [dotfiles](https://github.com/tlj/dotfiles): All my dotfiles - and cross-platform and cross-architecture installation scripts
+- [graft.nvim](https://github.com/tlj/graft.nvim): Extensible Neovim plugin loader
 - [api-browser.nvim](https://github.com/tlj/api-browser.nvim): OpenAPI browser plugin for Neovim.
  
 ## Tech Stack
